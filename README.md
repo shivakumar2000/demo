@@ -1,2 +1,2 @@
-# demo
-demo travis CI
+# travis-lab
+Travis Python test example
