@@ -8,7 +8,7 @@ def test_percentage():
 
 def test_addition():
     assert ml.add(4,5) == 9
-    assert ml.add(5, 6) == 12
+    assert ml.add(5, 7) == 12
     assert ml.add(4, 5) == 9
 
 def test_division():
